@@ -14,7 +14,6 @@ body{
 }
 .header{
 	position: absolute;
-	height: ;
 	top:0;
 	width:100%;
 	text-align: left;
@@ -231,11 +230,6 @@ body{
 #socialLinks span:nth-child(4) {
 	color: #FF0055;
 }
-
-
-
-
-
 
 @media (max-width: 479.98px) {
 	.subHeading {
